@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "fastapi-demo\\.venv\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
+}
