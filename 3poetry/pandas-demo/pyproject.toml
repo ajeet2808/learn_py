@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pandas-demo"
+version = "0.1.0"
+description = ""
+authors = ["Ajeet Singh <ajeet2808@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.2.4"
+demo-lib = {path = "../demo-lib"}
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
