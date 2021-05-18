@@ -24,7 +24,7 @@ print(9 % 6 % 2) # % has left-sided binding. = 1
 # 4	        +, - (binary)
 print(2 * 3 % 5)
 
-#parentheses > subexpressions in parentheses are always calculated first.
+#parentheses => subexpressions in parentheses are always calculated first.
 print((5 * ((25 % 13) + 100) / (2 * 13)) // 2)
 
 #The exponentiation operator uses right-sided binding, e.g., 2 ** 2 ** 3 = 256.

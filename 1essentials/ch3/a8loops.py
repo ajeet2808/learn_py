@@ -52,7 +52,7 @@ print("Outside the loop.")
 
 # The loop's else branch is always executed once, regardless of whether the loop has entered its body or not.
 
-i = 5
+# i = 5
 while i < 5:
     print(i)
     i += 1

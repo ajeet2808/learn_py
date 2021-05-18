@@ -22,7 +22,7 @@ print(3E8) #300000000.0
 print(3E-8) #0.00000003
 
 #readablity
-print(100_000)
+print(100_000) #1000000
 print(-100_000)
 
 #octal (preceded by zero-o)

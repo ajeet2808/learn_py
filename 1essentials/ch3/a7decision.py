@@ -14,6 +14,7 @@
 
 # if true_or_not:
 #     do_this_if_true
+#     do_something_more
 
 the_weather_is_good = True
 def go_for_a_walk():

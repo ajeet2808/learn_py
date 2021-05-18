@@ -14,6 +14,7 @@ anything = float(input("Enter a number: "))
 something = anything ** 2.0
 print(anything, "to the power of 2 is", something)
 
+input("Hit enter for string concatenation")
 #String Concatenation
 # Don't forget - if you want the + sign to be a concatenator, not an adder, you must ensure that both its arguments are strings.
 print("abc" + "123")
@@ -21,6 +22,6 @@ print("abc" + "123")
 # Replication
 print("abc_"*3)
 
-
+input("next?")
 # to string
-str(10)
+print(str(10) + str(10))

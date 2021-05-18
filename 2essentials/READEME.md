@@ -10,4 +10,4 @@
 > Object-Oriented Programming
 
 **Chapter 4**
-> Miscellaneous (generators, iterators, closures, file streams, processing text and binary files, the os, time, datetime, and calendar module)
+> Miscellaneous (generators, iterators, closures)

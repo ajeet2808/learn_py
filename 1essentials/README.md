@@ -1,7 +1,10 @@
 **Setting up environment**
 1. > [Install python](https://www.python.org/downloads/)
-
-2. > Add python path in environment. Example: 'C:\Program Files\Python38\'
+2. > Check if its installed properly
+    > ```
+    > python --version
+    >```
+3. > Add python path in environment. Example: 'C:\Program Files\Python38\' 
 3. > Install vscode and 'Python
 ms-python.python' extension in vscode.
 
